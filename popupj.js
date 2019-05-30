@@ -1,6 +1,4 @@
 chrome.tabs.getSelected(null, function(tab) {
-     //     var imageResult = document.getElementById('image-result');
-   //  imageResult.addEventListener("click", function() {
 var http = new XMLHttpRequest();
 var url = "https://looseanappweb.000webhostapp.com/Fcm/send.php";//"http://dileep.comxa.com/Fcm/send.php";
 
