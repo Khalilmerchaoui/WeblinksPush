@@ -1,6 +1,6 @@
 # WeblinksPush
 
-<img alt="icon" src="icon.png" width="80"> 
+<img alt="icon" src="ChromeExtension/icon.png" width="80"> 
 
 
 ## License
